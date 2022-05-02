@@ -44,6 +44,13 @@
                                 <rect key="frame" x="54" y="66" width="307" height="163"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="center" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" enabled="NO" highlighted="YES" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" id="78a-Bf-oo5">
+                                <rect key="frame" x="179" y="560" width="57" height="54"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="45"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="tertiarySystemGroupedBackgroundColor"/>
@@ -51,6 +58,8 @@
                     <connections>
                         <outlet property="diceImageView1" destination="Ubc-Oo-Q0N" id="UWQ-pX-0q1"/>
                         <outlet property="diceImageView2" destination="Bci-NE-Qdh" id="AeP-QF-eMb"/>
+                        <outlet property="labelTotal" destination="78a-Bf-oo5" id="YVA-P8-wE1"/>
+                        <outlet property="labelTotal2" destination="78a-Bf-oo5" id="XKM-kY-jmc"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
