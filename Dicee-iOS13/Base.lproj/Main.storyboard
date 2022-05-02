@@ -33,7 +33,7 @@
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" systemColor="systemRedColor"/>
                                     </backgroundConfiguration>
-                                    <fontDescription key="titleFontDescription" type="boldSystem" pointSize="50"/>
+                                    <fontDescription key="titleFontDescription" type="boldSystem" pointSize="70"/>
                                     <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
