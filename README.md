@@ -1,6 +1,6 @@
 # Dice Game 🎲
 
-## Third Swift project 
+## Swift's third project 
 
  Topics in this module:
 * How to clone an existing Xcode project from GitHub.
